@@ -52,7 +52,7 @@ const projects = [
     image: "/projects/hospital-system.svg",
     technologies: ["React", "Supabase", "PostgreSQL", "Role-based Access"],
     liveUrl:
-      "https://hospital-management-system-2px8f26x9-ayanshaikh187s-projects.vercel.app/",
+      "https://hospital-management-system-2px8f26x9-ayanshaikh187s-projects.vercel.app",
     githubUrl:
       "https://github.com/ayanshaikh187/hospital-management-system",
   },
