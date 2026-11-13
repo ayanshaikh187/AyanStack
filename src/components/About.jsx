@@ -23,7 +23,7 @@ function About() {
               {/* Image Placeholder */}
               <div className="flex aspect-[4/5] items-center justify-center overflow-hidden rounded-[1.5rem] border border-white/10 bg-gradient-to-br from-slate-800 via-slate-900 to-slate-950">
                   <img
-                  src="/profile.jpg"
+                  src="/profile.png"
                   alt="Ayan profile"
                   className="inset-0 z-10 h-full w-full object-cover"
                   onError={(event) => { event.currentTarget.style.display = "none"; }}
