@@ -112,7 +112,7 @@ function Hero() {
               {/* Image Placeholder */}
               <div className="relative flex aspect-square items-center justify-center bg-gradient-to-br from-slate-800 to-slate-950">
                 <img
-                  src="/profile.jpg"
+                  src="/profile.png"
                   alt="Ayan profile"
                   className="absolute inset-0 z-10 h-full w-full object-cover"
                   onError={(event) => { event.currentTarget.style.display = "none"; }}
